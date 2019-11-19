@@ -1,2 +1,2 @@
 # Forca-Python
-Jogo de forca tradicional
+Jogo de forca tradicional!
